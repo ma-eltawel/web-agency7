@@ -4,5 +4,5 @@
 ## The entire site
 ![alt text](images/demo.jpeg)
 
-## **Additional work**
+## Additional work
 ![alt text](images/anim.png)
